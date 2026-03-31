@@ -65,9 +65,9 @@ Interação com usuário foi isolada:
 
 ---
 
-## 🧠 Princípios SOLID aplicados
+## Princípios SOLID aplicados
 
-### 🔹 S — Single Responsibility Principle (SRP)
+### S — Single Responsibility Principle (SRP)
 
 Cada classe tem uma única responsabilidade:
 
@@ -79,7 +79,7 @@ Cada classe tem uma única responsabilidade:
 
 ---
 
-### 🔹 O — Open/Closed Principle (OCP)
+### O — Open/Closed Principle (OCP)
 
 O sistema está aberto para extensão e fechado para modificação:
 
@@ -89,7 +89,7 @@ O sistema está aberto para extensão e fechado para modificação:
 
 ---
 
-### 🔹 I — Interface Segregation Principle (ISP)
+### I — Interface Segregation Principle (ISP)
 
 Não foram usadas interfaces formais, porém:
 
@@ -99,7 +99,7 @@ Não foram usadas interfaces formais, porém:
 
 ---
 
-### 🔹 D — Dependency Inversion Principle (DIP)
+### D — Dependency Inversion Principle (DIP)
 
 
 - `SeedService` recebe dependências via construtor
