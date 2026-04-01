@@ -61,7 +61,7 @@ Interação com usuário foi isolada:
 
 ### Organização do fluxo no App
 - `App` virou a classe de orquestração
-- Delega responsabilidades para services, repositories e views
+- Responsabilidades para services, repositories e views
 
 ---
 
